@@ -1,6 +1,8 @@
-.env
+# .env   <-- REMOVE or COMMENT this line
+
 *.session
 __pycache__/
 *.pyc
 .venv/
 venv/
+
